@@ -75,9 +75,10 @@ p {
     margin-left: 20px;
 }
 
+/* updated padding to 13px to match the content element */
 .benefits {
     margin-right: 20px;
-    padding: 20px;
+    padding: 13px;
     clear: both;
     float: right;
     width: 20%;
