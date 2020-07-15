@@ -19,9 +19,9 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* changed the seo in <h1> tag to stand out for Search Engine Optimization */
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #9ddb60;
 }
 
 .header div {
