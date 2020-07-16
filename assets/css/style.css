@@ -1,3 +1,5 @@
+/* ALL ELEMENT SELECTORS */
+
 * {
   box-sizing: border-box;
   padding: 0;
@@ -51,6 +53,14 @@ p {
   font-size: 16px;
 }
 
+figure img {
+  height: 100%;
+  width: 100%;
+  margin-bottom: 25px;
+  background-size: cover;
+  background-position: center;
+}
+
 footer {
   padding: 30px;
   clear: both;
@@ -63,13 +73,7 @@ footer h2 {
   font-size: 20px;
 }
 
-.backgroundimg img {
-  height: 100%;
-  width: 100%;
-  margin-bottom: 25px;
-  background-size: cover;
-  background-position: center;
-}
+/* ALL CLASS SELECTORS */
 
 .float-left {
   float: left;
@@ -134,3 +138,5 @@ footer h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
+
+/* ALL ID SELECTORS -- NONE */
