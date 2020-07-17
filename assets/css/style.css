@@ -93,20 +93,22 @@ footer h2 {
 
 .benefits {
   margin-right: 20px;
-  margin-bottom: 32px;
+  margin-bottom: 20px;
   color: #ffffff;
-  padding: 13px;
+  padding: 1.7%;
   clear: both;
   float: right;
   width: 20%;
-  height: 100%;
+  height: 940px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #2589bd;
-  content: "";
+  background-color: #0072bb;
+  position: absolute;
+  top: 0px;
+  right: 0px;
 }
 
 .benefit {
-  margin-bottom: 32px;
+  margin-bottom: 10%;
   color: #ffffff;
 }
 
@@ -139,4 +141,8 @@ footer h2 {
   font-size: 36px;
 }
 
-/* ALL ID SELECTORS -- NONE */
+/* ALL ID SELECTORS  */
+
+#container {
+  position: relative;
+}

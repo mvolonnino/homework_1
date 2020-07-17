@@ -1,6 +1,15 @@
 # homework_1
 
-<!-- HTML5 Semantic Rework for Horiseon -->
+homework_1 is an HTML/CSS file that was refracted to follow HTML 5 semantic
 
-<!-- Search Engine Optimization importance -->
+## Instalation
 
+NONE
+
+## Usage
+
+Normal website with url: https://mvolonnino.github.io/homework_1/ 
+
+## Contributing
+
+Public repo - Rutgers BootCamp
